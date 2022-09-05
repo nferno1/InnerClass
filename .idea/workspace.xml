@@ -1,24 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="640b8aa8-0340-4b6e-9f78-04dad3638ded" name="Changes" comment="" />
+    <list default="true" id="640b8aa8-0340-4b6e-9f78-04dad3638ded" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ananimusinner/ErrorMonitoringModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ananimusinner/ErrorMonitoringModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ananimusinner/GeneralIndocatorMonitoringModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ananimusinner/GeneralIndocatorMonitoringModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ananimusinner/MonitoringSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ananimusinner/MonitoringSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ananimusinner/SecurityModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ananimusinner/SecurityModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/innernested/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/innernested/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/innernested/Parcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/innernested/Parcel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/metodinner/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/metodinner/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/metodinner/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/metodinner/Sample.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2E3gHrDkMFE4gJ6liiBYOz0HoWX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.ananimusinner.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="metodinner.Main" />
+      <module name="InnerClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="metodinner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ananimusinner.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ananimusinner.Main" />
+      <module name="InnerClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ananimusinner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ananimusinner.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

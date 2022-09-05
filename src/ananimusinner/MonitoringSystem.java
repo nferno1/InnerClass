@@ -1,2 +1,7 @@
-package ananimusinner;public interface MonitoringSystem {
+package ananimusinner;
+
+
+public interface MonitoringSystem {
+    public void startmonitoting();
 }
+
